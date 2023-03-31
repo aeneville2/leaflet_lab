@@ -1,0 +1,9 @@
+Data Sources:
+
+https://irma.nps.gov/STATS/SSRSReports/National%20Reports/Annual%20Visitation%20By%20Park%20(1979%20-%20Last%20Calendar%20Year)
+
+general site for NP stats: https://irma.nps.gov/STATS/Reports/Park/BRCA
+
+used https://www.geoapify.com/tools/geocoding-online for geocoding
+
+used geojson.io for conversion to GeoJSON

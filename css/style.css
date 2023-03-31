@@ -1,0 +1,83 @@
+/*Stylesheet by Aspen Neville, 2022*/
+#header {
+	background-color: #fff;
+	width:100%;
+	vertical-align: top;
+	text-align: center;
+	height: 25px;
+}
+
+h3 {
+	font-family:Arial, Helvetica, sans-serif;
+	font-size: 16pt;
+	font-weight: bold;
+	color: #000;
+}
+
+#map {
+	height: 400px;
+	width: 100%;
+	display: inline-block;
+}
+
+#panel {
+	width: 100%;
+	padding: 20px;
+	display: inline-block;
+	vertical-align: top;
+	height: 25px;
+	background-color: #fff;
+}
+
+#sequence{
+	background-color: rgba(107,181,143,0.7);
+	width: 50%;
+	margin-left: 25%;
+	margin-right: 25%;
+	height: 30px;
+}
+
+.range-slider{
+	width: 100%;
+}
+
+datalist {
+	display: inline-block;
+}
+
+#tickmarks{
+	color: #6bb58f;
+}
+
+button {
+	height:25px;
+	
+}
+#forward {
+	float: right;
+}
+
+#reverse {
+	float: left;
+}
+
+img{
+	height: 25px;
+	width: 25px;
+}
+
+.leaflet-popup-content p {
+	margin: 0.2em 0;
+	line-height: 0.2;
+}
+
+.legend-control-container {
+	background-color:#fff;
+	opacity:70%;
+}
+
+.overlay-control-container{
+	background-color: #fff;
+	opacity: 70%;
+	padding: 5px;
+}
